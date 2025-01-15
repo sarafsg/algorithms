@@ -1,10 +1,6 @@
 # Algorithms
 
-A collection of algorithmic exercises designed to enhance problem-solving skills, implemented in JavaScript.
-
-## Overview
-
-This project contains solutions to algorithmic challenges designed to enhance algorithmic thinking, improve solution planning, and practice implementation in JavaScript. These exercises also emphasize the importance of testing code and handling edge cases effectively.
+A collection of algorithmic exercises where I solve common coding challenges using JavaScript, focusing on problem-solving, algorithmic thinking, and code implementation. The project includes tests and edge case handling for each solution.
 
 ---
 
